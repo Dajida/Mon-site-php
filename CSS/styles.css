@@ -1,0 +1,54 @@
+body{
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+.header{
+    flex-basis: 100%;
+    
+}
+
+.sidebar{
+    flex-basis: 100%; 
+}
+
+.secondSidebar{
+    flex-basis: 100%;
+   
+}
+
+.slider{
+    flex-basis: 100%; 
+}
+
+.footer{
+    flex-basis: 100%;
+
+}
+
+
+@media screen and(max-width:750px){
+    .slider{
+        flex-basis: 100%; 
+        
+    }                   
+
+    .footer{
+        order: 2; 
+    }
+
+}
+
+@media screen and(max-width:500px){
+    
+    .secondSidebar{
+        flex-basis: 100%; 
+               
+    }  
+    
+}
+
+
+ 
+
