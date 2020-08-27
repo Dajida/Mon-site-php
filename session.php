@@ -22,8 +22,8 @@
 <img src="images/Khady SALL 2.png" class="logo" width="270" height="121">
     <header class="header">
         <ul id="menu">
-            <li class="un"><a href="#">Accueil</a></li>
-            <li class="deux"><a href="#">Articles</a></li>
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Articles</a></li>
             <li><a href="maGalerie.php">Galerie</a></li>
             <li><a href="contact.php">Contact</a></li>
             <li><a href="logout.php">Déconnexion</a></li>
