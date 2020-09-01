@@ -68,6 +68,8 @@ h1.box-title {
 .sucess{
   text-align: center;
   color: white;
+  position: relative;
+  top: 200px;
 }
 .sucess a {
   text-decoration: none;
